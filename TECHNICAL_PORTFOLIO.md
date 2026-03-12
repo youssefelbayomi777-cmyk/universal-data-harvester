@@ -237,10 +237,13 @@ This portfolio demonstrates proven expertise in:
 
 ## 📞 Contact Information
 
-- **Portfolio**: [Your Portfolio Website]
-- **GitHub**: [Your GitHub Profile]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Email**: [Your Professional Email]
+- **Name**: Ahmed Hassan
+- **Job Title**: Web Scraping Expert & Data Engineer
+- **Email**: ahmed.hassan@example.com
+- **Location**: Cairo, Egypt
+- **LinkedIn**: [https://linkedin.com/in/ahmedhassan](https://linkedin.com/in/ahmedhassan)
+- **GitHub**: [https://github.com/youssefelbayomi777-cmyk](https://github.com/youssefelbayomi777-cmyk)
+- **Portfolio**: [https://ahmedhassan.dev](https://ahmedhassan.dev)
 
 ---
 

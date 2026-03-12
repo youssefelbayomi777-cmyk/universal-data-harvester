@@ -181,16 +181,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Ahmed Hassan**
+**Youssef Elbayomi**
 - Web Scraping Specialist
 - Data Processing Expert
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Email](mailto:your.email@example.com)
+- [GitHub](https://github.com/youssefelbayomi777-cmyk)
+- [Email](mailto:youssef.elbayomi@example.com)
 
 ## 🔗 Related Projects
 
-- [AARO Government Website Scraper](https://github.com/yourusername/aaro-scraper)
-- [E-commerce Data Pipeline](https://github.com/yourusername/ecommerce-pipeline)
+- [AARO Government Website Scraper](https://github.com/youssefelbayomi777-cmyk/aaro-scraper)
+- [E-commerce Data Pipeline](https://github.com/youssefelbayomi777-cmyk/ecommerce-pipeline)
 
 ---
 

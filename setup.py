@@ -7,14 +7,14 @@ with open("requirements.txt", "r", encoding="utf-8") as fh:
     requirements = [line.strip() for line in fh if line.strip() and not line.startswith("#")]
 
 setup(
-    name="shopify-data-processor",
+    name="universal-data-harvester",
     version="1.0.0",
     author="Ahmed Hassan",
-    author_email="your.email@example.com",
-    description="A comprehensive tool for processing Shopify product catalogs",
+    author_email="ahmed.hassan@example.com",
+    description="Universal Data Harvesting Unit - Advanced web scraping with AI collaboration",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/shopify-data-processor",
+    url="https://github.com/youssefelbayomi777-cmyk/universal-data-harvester",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 5 - Production/Stable",

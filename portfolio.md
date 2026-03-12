@@ -145,10 +145,10 @@ def process_shopify_products(data):
 
 ## 📞 Contact Information
 
-- **Email**: [Your Email]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **GitHub**: [Your GitHub Profile]
-- **Portfolio**: [Your Portfolio Website]
+- **Name**: Youssef Elbayomi
+- **LinkedIn**: [https://linkedin.com/in/youssefelbayomi](https://linkedin.com/in/youssefelbayomi)
+- **GitHub**: [https://github.com/youssefelbayomi777-cmyk](https://github.com/youssefelbayomi777-cmyk)
+- **Portfolio**: [https://youssefelbayomi.dev](https://youssefelbayomi.dev)
 
 ---
 
