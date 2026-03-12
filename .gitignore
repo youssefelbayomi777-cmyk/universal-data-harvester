@@ -31,10 +31,10 @@ ENV/
 *.swp
 *.swo
 
-# Data files
-data/raw/*.json
-data/processed/*.json
-data/processed/*.csv
+# Data files - Keep only samples
+*.json
+!dnm_ULTIMATE_20260311_1712.json
+!aaro_mil_20260312_1537/master_data.json
 
 # Logs
 *.log
@@ -49,3 +49,27 @@ Thumbs.db
 # Environment variables
 .env
 .env.local
+
+# Exclude raw data and scrapers
+*_scraper.py
+*_spider.py
+test_*.py
+*_audit_*
+*_SEO_*
+*_FULL_SITE*
+*_products.json
+
+# Exclude documentation files
+COVER_LETTER.md
+RESUME_CV.md
+DOCUMENTATION.md
+PORTFOLIO_SAMPLES.md
+scrapling_docs.md
+scrapling_docs_ar.md
+
+# Exclude folders
+aaro_mil_*/
+dnmeg_com_*/
+dnm.eg/
+scraper_output/
+.venv/
