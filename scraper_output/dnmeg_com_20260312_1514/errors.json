@@ -1,6 +1,0 @@
-[
-  {
-    "url": "https://dnmeg.com/customer_authentication/redirect",
-    "error": "403 Client Error: Forbidden for url: https://shopify.com/authentication/77269270819/oauth/authorize?client_id=43ed68bf-48ef-4fea-8edc-6e5f694ba8dc&locale=en-US&nonce=d1912611-639c-4907-ad70-bdac5a744035&redirect_uri=https%3A%2F%2Fshopify.com%2F77269270819%2Faccount%2Fcallback&response_type=code&scope=openid+email+customer-account-api%3Afull&state=hWN9lLd71KZZGPDSfExO3gor"
-  }
-]
