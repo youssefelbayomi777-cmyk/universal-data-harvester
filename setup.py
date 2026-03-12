@@ -28,10 +28,10 @@ setup(
         "Programming Language :: Python :: 3.11",
     ],
     python_requires=">=3.8",
-    install_requires=requirements,
-    entry_points={
-        "console_scripts": [
-            "shopify-processor=src.data_processor:main",
-        ],
+    keywords="web scraping, data extraction, ai collaboration, automation",
+    project_urls={
+        "Bug Reports": "https://github.com/youssefelbayomi777-cmyk/universal-data-harvester/issues",
+        "Source": "https://github.com/youssefelbayomi777-cmyk/universal-data-harvester",
+        "Documentation": "https://github.com/youssefelbayomi777-cmyk/universal-data-harvester/blob/main/README.md",
     },
 )

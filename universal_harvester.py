@@ -21,6 +21,33 @@ import random
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
+def main():
+    """Main entry point for the Universal Data Harvester"""
+    print("🚀 Universal Data Harvesting Unit")
+    print("=" * 50)
+    print("Advanced Web Scraping with AI Collaboration")
+    print("=" * 50)
+    
+    # Example usage
+    config = HarvestConfig(
+        target_url="https://example.com",
+        use_ai_assistance=True,
+        stealth_mode=False,
+        output_format="json"
+    )
+    
+    print(f"🎯 Target: {config.target_url}")
+    print(f"🤖 AI Assistance: {config.use_ai_assistance}")
+    print(f"🛡️ Stealth Mode: {config.stealth_mode}")
+    print(f"📊 Output Format: {config.output_format}")
+    
+    print("\n✅ Universal Data Harvester is ready!")
+    print("📖 Documentation: https://github.com/youssefelbayomi777-cmyk/universal-data-harvester")
+    print("🚀 Start scraping with your target URL")
+
+if __name__ == "__main__":
+    main()
+
 @dataclass
 class HarvestConfig:
     """Configuration for data harvesting operations"""
