@@ -237,13 +237,13 @@ This portfolio demonstrates proven expertise in:
 
 ## 📞 Contact Information
 
-- **Name**: Ahmed Hassan
-- **Job Title**: Web Scraping Expert & Data Engineer
-- **Email**: ahmed.hassan@example.com
-- **Location**: Cairo, Egypt
-- **LinkedIn**: [https://linkedin.com/in/ahmedhassan](https://linkedin.com/in/ahmedhassan)
+- **Name**: Youssef Mohamed El Bayoumi
+- **Job Title**: AI Automation & Data Extraction Specialist
+- **Email**: youssefelbayomi777@gmail.com
+- **Phone**: +20 122 130 5374
+- **Location**: Egypt
 - **GitHub**: [https://github.com/youssefelbayomi777-cmyk](https://github.com/youssefelbayomi777-cmyk)
-- **Portfolio**: [https://ahmedhassan.dev](https://ahmedhassan.dev)
+- **Portfolio**: [https://youssefelbayomi.dev](https://youssefelbayomi.dev)
 
 ---
 
