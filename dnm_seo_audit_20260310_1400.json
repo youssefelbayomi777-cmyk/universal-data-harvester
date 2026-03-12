@@ -1,0 +1,22 @@
+[
+  {
+    "url": "https://dnmeg.com",
+    "status_code": 200,
+    "redirect_url": "https://dnmeg.com/",
+    "title": "DNM.EG",
+    "title_length": 6,
+    "meta_description": "DRESS BEYOND LIMITS.",
+    "meta_length": 20,
+    "h1": "",
+    "h1_count": 1,
+    "h2_count": 4,
+    "h3_count": 6,
+    "canonical": "https://dnmeg.com/",
+    "canonical_match": "⚠️ Mismatch",
+    "schema_types": "Organization, WebSite",
+    "has_schema": true,
+    "robots_meta": "",
+    "issues": "Fetch Error: 'Selector' object has no attribute 'strip'",
+    "crawled_at": "2026-03-10T12:00:41.196604"
+  }
+]
