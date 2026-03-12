@@ -33,8 +33,7 @@ ENV/
 
 # Data files - Keep only samples
 *.json
-!dnm_ULTIMATE_20260311_1712.json
-!aaro_mil_20260312_1537/master_data.json
+!data/samples/*.json
 
 # Logs
 *.log
